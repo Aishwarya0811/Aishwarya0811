@@ -54,7 +54,7 @@ I am a Data Science & Analytics Leader with over 10 years of experience driving 
 <h3 align="left">Work Experience</h3>
 <ul align="left">
   <li><strong>Walmart – Sr. Manager, Analytics</strong> (2025–Now)<br>A/B testing & insights @ Walmart.com (GCP)</li>
-  <li><strong>The Home Depot – Manager, Data Science</strong> (2021–2025)<br>Boosted retention with ML campaigns</li>
+  <li><strong>The Home Depot – Data Science Professional </strong> (2021–2025)<br>Boosted retention with ML campaigns</li>
   <li><strong>Tractor Supply – Sr. Data Scientist</strong> (2020–2021)<br>Delivered $5M+ lift via modeling</li>
   <li><strong>JTV – Data Scientist</strong> (2019–2020)<br>Improved product recommendations</li>
 </ul>
